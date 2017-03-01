@@ -12,7 +12,7 @@
 + [task2 preview](https://codepen.io/zhongshanxian/pen/mWyqYN)
 + [task2 source code](https://github.com/zhongshanxian/Baidu-IFE-2017/blob/master/codes/HTML%26CSS/task2-html-css.html)
 
-## html
+### html
 
 ```html
 <header>
